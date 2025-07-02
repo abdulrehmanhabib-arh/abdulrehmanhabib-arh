@@ -71,10 +71,6 @@ I'm a passionate **Web Developer and Graphic Designer** from Pakistan, specializ
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehmanhabib-arh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmanhabib-arh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmanhabib-arh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
