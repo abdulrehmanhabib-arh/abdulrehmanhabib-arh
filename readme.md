@@ -126,7 +126,7 @@ Punjab College Okara
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulrehmanhabib-arh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
   
   **"Transforming ideas into digital reality, one pixel at a time."**
 </div>
